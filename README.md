@@ -1,5 +1,8 @@
 ## Olá 👋;
 
+### ↪ Link para o site 😀👇
+## https://rafarz76.github.io/MeuPrimeiroPost/
+
 ## ▶Projeto {Meu Primeiro Post} realizado com as ferramentas HTML e CSS do curso DIO:
 ## Link👉 https://web.dio.me/home. 
 
