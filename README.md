@@ -1,6 +1,6 @@
 ## Olá 👋;
 
-## ▶Projeto Meu Primeiro Post realizado com as ferramentas HTML e CSS do curso DIO:
+## ▶Projeto {Meu Primeiro Post} realizado com as ferramentas HTML e CSS do curso DIO:
 ## Link👉 https://web.dio.me/home. 
 
 ## ▶No bootcamp Geração Tech Unimed-BH | Fullstack.
