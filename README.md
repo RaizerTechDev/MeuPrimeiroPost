@@ -1,10 +1,10 @@
 ## Olá 👋;
 
 ### ↪ Link para o site 😀👇
-## https://rafarz76.github.io/MeuPrimeiroPost/
+### [Primeiro-Post!!](https://raizertechdev-primeiro-post.netlify.app/)
 
 ## ▶Projeto {Meu Primeiro Post} realizado com as ferramentas HTML e CSS do curso DIO:
-## Link👉 https://web.dio.me/home. 
+### Link👉 https://web.dio.me/home. 
 
 ## ▶No bootcamp Geração Tech Unimed-BH | Fullstack.
 
